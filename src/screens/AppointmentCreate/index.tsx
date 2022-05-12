@@ -76,7 +76,7 @@ export function AppointmentCreate(){
               <View style={styles.select}>
                 {
                   guild.icon 
-                  ? <GuildIcon /> 
+                  ? <GuildIcon />
                   : <View style={styles.image} />
                 }
 
@@ -125,7 +125,7 @@ export function AppointmentCreate(){
                   </Text>
                   <SmallInput maxLength={2} />
                 </View>
-              </View>           
+              </View>
             </View>
 
             <View style={[styles.field, { marginBottom: 12 }]}>

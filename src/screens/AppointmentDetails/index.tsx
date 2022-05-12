@@ -25,13 +25,13 @@ export function AppointmentDetails(){
     {
       id: '1',
       username: 'Felipe',
-      avatar_url: 'https://github.com/mamede.png',
+      avatar_url: 'https://avatars.githubusercontent.com/u/86139460?s=200&v=4',
       status: 'online'
     },
     {
       id: '2',
       username: 'Mamede',
-      avatar_url: 'https://github.com/mamede.png',
+      avatar_url: 'https://avatars.githubusercontent.com/u/86139460?s=200&v=4',
       status: 'offline'
     }
   ]
